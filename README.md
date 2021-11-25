@@ -1,2 +1,3 @@
 # ium-tweb
-Esercizi IUM TWEB 1 &amp; 2 Corso Informazione e Conoscenza UniTO
+Progetto "Prenotazioni Ripetizioni" Anno Accademico 2021/2022 
+Ramo Informazione e Conoscenza, Corso Interazione Uomo Macchina e Tecnologie Web da 12 CFU presso UniTO.
